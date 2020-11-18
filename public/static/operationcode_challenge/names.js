@@ -58,5 +58,9 @@ export default [
     'Krishna AL',
     'Akshaya Subramanian',
     'Parshwa Shah',
-    'Elise Harris'
+    'Elise Harris',
+    'Ryan Diffenbaugh',
+    'Ron Yonker',
+    'Quan Nguyen',
+    'Brian McPhillips
 ]
